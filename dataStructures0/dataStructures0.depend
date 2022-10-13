@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1665670270 source:c:\users\bilmuh\documents\codeblocksprojects\datastructures0\main.c
+	<string.h>
+
+1665664590 source:c:\users\bilmuh\documents\codeblocksprojects\datastructures0\datastructures1.c
+	<stdio.h>
+	<stdlib.h>
+
+1665664559 source:c:\users\bilmuh\documents\codeblocksprojects\datastructures0\datastructures2.c
+
+1665666322 source:c:\users\bilmuh\documents\codeblocksprojects\datastructures0\datastructures3.c
+	<stdio.h>
+	<stdlib.h>
+
+1665666485 source:c:\users\bilmuh\documents\codeblocksprojects\datastructures0\datastructures4.c
+	<stdio.h>
+	<stdlib.h>
+
+1665668429 source:c:\users\bilmuh\documents\codeblocksprojects\datastructures0\datastructures5.c
+
